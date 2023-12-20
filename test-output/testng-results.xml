@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T17:34:11 IST" name="Default suite" finished-at="2023-12-19T17:34:11 IST" duration-ms="234">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T17:34:11 IST" name="Default test" finished-at="2023-12-19T17:34:11 IST" duration-ms="234">
+      <class name="com.selenium.testNg.ExtentReportsExample">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.selenium.testNg.ExtentReportsExample@6e0f5f7f]" started-at="2023-12-19T17:34:11 IST" name="setUp" finished-at="2023-12-19T17:34:11 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testExtentReport()[pri:0, instance:com.selenium.testNg.ExtentReportsExample@6e0f5f7f]" started-at="2023-12-19T17:34:11 IST" name="testExtentReport" finished-at="2023-12-19T17:34:11 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExtentReport -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.testNg.ExtentReportsExample@6e0f5f7f]" started-at="2023-12-19T17:34:11 IST" name="tearDown" finished-at="2023-12-19T17:34:11 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.testNg.ExtentReportsExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
